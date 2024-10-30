@@ -1,0 +1,14 @@
+:root {
+    --c-prim-100: #6666FF;
+    --c-prim-200: #333399;
+    --c-sec-100: #F0E68C;
+    --c-acc-100: #993333;
+    --c-bg-100: #FFFFF0;
+    --c-text-100: #000033;
+
+    --p-l: 1.25rem;
+    --p-m: 1rem;
+    --p-sm: 0.75rem;
+    --p-xs: 0.5rem;
+    --p-xxs: 0.15rem;
+}
