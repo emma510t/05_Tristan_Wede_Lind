@@ -10,4 +10,4 @@ The page should behave as in the attached pictures. However, feel free to implem
 
 
 ## Note:
-The img files were to large to push to GitHub. Locally i have them in a folder titeled img
+The img files were to large to push to GitHub. Locally i have them in a folder titled img
